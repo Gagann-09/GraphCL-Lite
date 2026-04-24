@@ -1,0 +1,8 @@
+torch==2.8.0
+torchvision==0.23.0
+torch-geometric==2.7.0
+numpy==2.4.3
+matplotlib==3.10.6
+seaborn==0.13.2
+scikit-learn==1.7.2
+networkx==3.3
